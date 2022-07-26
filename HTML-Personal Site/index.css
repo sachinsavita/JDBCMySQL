@@ -1,0 +1,33 @@
+body{
+    background-color:white;
+
+  }
+hr{
+    border-style: none;
+    height: 2px;
+    background-color: white;
+    width: 10%;
+    border-top: dotted 10px wheat;
+  }
+  h3{
+    color: #66BFBF;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  h1{
+    color: green;
+    font-size: 50px;
+  }
+  .bac{
+    color: red;
+    font-size: 100px;
+  }
+
+  #bacon:hover{
+    color: black;
+    font-size: 150px;
+
+  }
+  .bacfont{
+    font-style: italic;
+    font-size: 150px;
+  }
